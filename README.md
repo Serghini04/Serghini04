@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/meserghi" alt="meserghi's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/meserghi" alt="meserghi's 42 stats" /></a>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mohamedamine456&count_private=true&show_icons=true&theme=dark)](https://github.com/mohamedamine456)
 
