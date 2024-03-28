@@ -12,7 +12,7 @@
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/meserghi" alt="meserghi's 42 stats" /></a>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=mohamedamine456&count_private=true&show_icons=true&theme=dark)](https://github.com/mohamedamine456)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Serghini04&count_private=true&show_icons=true&theme=dark)](https://github.com/Serghini04)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedamine456" alt="mohamedamine456" /></a> </p>
 
