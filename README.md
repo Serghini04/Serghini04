@@ -16,10 +16,6 @@
   <tr>
     <td style="border: none;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serghini04&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,cmake,hack,shell,html,css&langs_count=6&hide_border=True" alt="GitHub Top Langs" style="border: none;" />
-    </td>
-    <td style="border: none;">
-      <img src="https://streak-stats.demolab.com?user=Serghini04&theme=dracula&exclude_days=Sun"/>
-    </td>
   </tr>
 </table>
 
