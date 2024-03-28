@@ -40,10 +40,8 @@ I am currently focusing 💬 on strengthening my skills in C/C++ and C#. I'm exp
 </p>
 
 ### 🔗 Connect with Me
-GitHub: Your GitHub Profile
-LinkedIn: Your LinkedIn Profile
-Email: your-email@example.com
-
+- LinkedIn: [![LinkedIn][]](https://www.linkedin.com/in/mehdi-serghini-a81160245/)
+- Email: [mehdi_serghini@yahoo.com](mailto:mehdi_serghini@yahoo.com)
 ---
 [![](https://visitcount.itsvg.in/api?id=Serghini04&icon=0&color=0)](https://visitcount.itsvg.in)
 
