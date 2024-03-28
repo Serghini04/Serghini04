@@ -15,9 +15,11 @@
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serghini04&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,cmake,hack,shell,html,css&langs_count=6&hide_border=True" alt="GitHub Top Langs" style="border: none;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziliolu&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,cmake,hack,shell,html,css&langs_count=6&hide_border=True" alt="GitHub Top Langs" style="border: none;" />
+    </td>
+    <td style="border: none;">
+      <img src="https://streak-stats.demolab.com?user=ziliolu&theme=dracula&exclude_days=Sun"/>
+    </td>
   </tr>
 </table>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedamine456" alt="mohamedamine456" /></a> </p>
 
