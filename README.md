@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Mehdi Serghini </h1>
 
 
-  👨‍💻 I'm a passionate Software Engineering student at 1337 (42 Network) with a focus on 👀 C/C++ and C#. I love diving into complex problems and crafting elegant solutions through code.
+  👨‍💻 Driven by a passion for cloud-powered innovation, I am a software engineering student at the renowned 1337 school, which is part of the prestigious 42 Network. Through a combination of hands-on projects and self-directed learning, I have developed deep expertise in programming languages, cloud computing concepts, and software development best practices.
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -10,10 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/meserghi" alt="meserghi's 42 stats" /></a>
+<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/meserghi" alt="meserghi's 42 stats" /></a></p>
 
 ### 🌱 Currently Learning
-I am currently focusing 💬 on strengthening my skills in C/C++ and C#. I'm exploring advanced concepts and diving deeper into topics such as data structures, algorithms, and software design principles.⚡
+I am currently 💬 working on projects involving C++ and C#, while also starting to explore concepts related to DevOps, cloud technologies, and databases. My focus is on strengthening my skills in these areas and diving deeper into topics such as data structures, algorithms, and software design principles.⚡
 
 
 <table style="border: none;">
@@ -35,7 +35,7 @@ I am currently focusing 💬 on strengthening my skills in C/C++ and C#. I'm exp
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp"/>
-    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,notion,linux,vim,vscode" />
   </a>
 </p>
 
