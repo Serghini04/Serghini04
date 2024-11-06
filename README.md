@@ -34,7 +34,7 @@ I am currently 💬 working on projects involving C++ and C#, while also startin
 - Tools & Technologies: Bash, Vim, VS Code
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,net framework"/>
     <img src="https://skillicons.dev/icons?i=git,github,bash,notion,linux,vim,vscode" />
   </a>
 </p>
