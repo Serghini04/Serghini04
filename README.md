@@ -34,7 +34,4 @@ Currently, I’m working on advanced C++ and C# projects, while exploring DevOps
 - **LinkedIn**: [Mehdi Serghini](https://www.linkedin.com/in/mehdi-serghini-a81160245/)
 - **Email**: [mehdi_serghini@yahoo.com](mailto:mehdi_serghini@yahoo.com)
 
-### 🔗 Connect with Me
-- LinkedIn: [Mehdi Serghini](https://www.linkedin.com/in/mehdi-serghini-a81160245/)
-- Email: [mehdi_serghini@yahoo.com](mailto:mehdi_serghini@yahoo.com)
 ---
