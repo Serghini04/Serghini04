@@ -1,43 +1,38 @@
-<h1 align="center"> Hi 👋, I'm Mehdi Serghini </h1>
+<h1 align="center">Hi 👋, I'm Mehdi Serghini</h1>
 
+👨‍💻 Passionate about cloud-powered innovation, I'm a software engineering student at 1337, part of the prestigious 42 Network. With hands-on projects and self-driven learning, I’ve gained expertise in programming languages, cloud technologies, and software development best practices. I’m focused on building scalable solutions and diving into areas like DevOps, databases, and software design.
 
-  👨‍💻 Driven by a passion for cloud-powered innovation, I am a software engineering student at the renowned 1337 school, which is part of the prestigious 42 Network. Through a combination of hands-on projects and self-directed learning, I have developed deep expertise in programming languages, cloud computing concepts, and software development best practices.
-
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/meserghi" alt="meserghi's 42 stats" /></a></p>
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/meserghi" alt="meserghi's 42 stats" />
+  </a>
+</p>
 
 ### 🌱 Currently Learning
-I am currently 💬 working on projects involving C++ and C#, while also starting to explore concepts related to DevOps, cloud technologies, and databases. My focus is on strengthening my skills in these areas and diving deeper into topics such as data structures, algorithms, and software design principles.⚡
+Currently, I’m working on advanced C++ and C# projects, while exploring DevOps principles, cloud architecture, and database management. I’m also strengthening my knowledge in data structures, algorithms, and software design patterns to become a well-rounded engineer.
 
-
-<table style="border: none;">
+<table>
   <tr>
-    <td style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serghini04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Langs" style="border: none;" />
-    </td>
-    <td style="border: none;">
-      <img src="https://streak-stats.demolab.com?user=Serghini04&theme=dracula&exclude_days=Sun"/>
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serghini04&theme=dark&hide_border=false&layout=compact" alt="GitHub Top Langs" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=Serghini04&theme=dracula&exclude_days=Sun" alt="GitHub Streak Stats" /></td>
   </tr>
 </table>
 
-### 🚀 Skills
-- Programming Languages: C++, C#, Python
-- Version Control: Git, GitHub
-- Operating Systems: Linux, Windows
-- Tools & Technologies: Bash, Vim, VS Code
+### 🚀 Technical Skills
+- **Languages**: C++, C#, Python
+- **Version Control**: Git, GitHub
+- **Operating Systems**: Linux, Windows
+- **Tools & Technologies**: Bash, Vim, VS Code, Notion
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,net framework"/>
-    <img src="https://skillicons.dev/icons?i=git,github,bash,notion,linux,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,github,bash,notion,linux,vim,vscode" />
   </a>
 </p>
+
+### 🔗 Connect with Me
+- **LinkedIn**: [Mehdi Serghini](https://www.linkedin.com/in/mehdi-serghini-a81160245/)
+- **Email**: [mehdi_serghini@yahoo.com](mailto:mehdi_serghini@yahoo.com)
 
 ### 🔗 Connect with Me
 - LinkedIn: [Mehdi Serghini](https://www.linkedin.com/in/mehdi-serghini-a81160245/)
