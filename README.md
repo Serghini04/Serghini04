@@ -19,14 +19,14 @@ Currently, I’m working on advanced C++ and C# projects, while exploring DevOps
 </table>
 
 ### 🚀 Technical Skills
-- **Languages**: C++, C#, Python
+- **Languages**: C++, C#, Java
 - **Version Control**: Git, GitHub
 - **Operating Systems**: Linux, Windows
 - **Tools & Technologies**: Bash, Vim, VS Code, Notion
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,github,bash,notion,linux,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,git,github,bash,notion,linux,vim,vscode" />
   </a>
 </p>
 
