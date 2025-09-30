@@ -12,11 +12,10 @@ I'm a Software Engineering student at **1337-UM6P** (42 Network) with a passion 
   </a>
 </p>
 
-- 🔍 Strong foundation in **data structures, algorithms, and system design**  
-- 🚀 Proven experience with **Java, Spring Boot, and containerization**  
-- 🛡️ Focused on **performance optimization, security, and reliability**  
-- 💡 I thrive in collaborative environments and enjoy tackling complex technical challenges
-
+- 🔍 Strong foundation in **algorithms, system design, and microservices**
+- 🚀 Experience with **Java/Spring Boot, C++, React.js, Node.js, and Dockerized infrastructures**  
+- 🛡️ Focused on **scalability, performance optimization, and security**  
+- 💡 Thrive in collaborative environments and enjoy tackling complex technical challenges
 ---
 
 ## ⚙️ Tech Stack
@@ -24,29 +23,33 @@ I'm a Software Engineering student at **1337-UM6P** (42 Network) with a passion 
 <table>
   <tr>
     <td><strong>Core Languages</strong></td>
-    <td>Java, C++, Python, Bash</td>
+    <td>Java, C/C++, JavaScript, TypeScript, Bash</td>
   </tr>
   <tr>
     <td><strong>Backend & APIs</strong></td>
-    <td>Spring Boot, RESTful Architecture, Microservices</td>
+    <td>Spring Boot, Node.js, REST APIs, Microservices, Socket Programming</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React.js, HTML, CSS, TypeScript</td>
   </tr>
   <tr>
     <td><strong>Data Management</strong></td>
-    <td>MySQL, PostgreSQL, MongoDB, Data Modeling</td>
+    <td>PostgreSQL, MySQL, MongoDB, Data Modeling, ORM</td>
   </tr>
   <tr>
-    <td><strong>DevOps Tooling</strong></td>
-    <td>Docker, CI/CD Pipelines, Git, GitHub Actions</td>
+    <td><strong>DevOps & Infrastructure</strong></td>
+    <td>Docker, Docker Compose, NGINX, CI/CD Pipelines, GitHub Actions</td>
   </tr>
   <tr>
-    <td><strong>Infrastructure</strong></td>
+    <td><strong>Systems & Networking</strong></td>
     <td>Linux Administration, Virtualization, Network Configuration</td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cpp,mysql,postgresql,mongodb,docker,bash,python,linux,git,github,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cpp,js,ts,react,nodejs,nestjs,mysql,postgresql,mongodb,docker,nginx,bash,linux,git,github,vscode,vim" />
   </a>
 </p>
 
@@ -54,10 +57,10 @@ I'm a Software Engineering student at **1337-UM6P** (42 Network) with a passion 
 
 ## 📚 Currently Expanding My Knowledge In
 
-- 🔄 Full-stack development with Java/Spring Boot backends
-- 🌐 MERN stack (MongoDB, Express, React, Node.js) architecture
-- 🏗️ Advanced Spring patterns and enterprise-grade best practices
-- ⚡ High-performance CI/CD pipelines for seamless deployment
+- 🔄 Full-Stack development with **React frontends and Spring Boot/Node.js backends**  
+- 🌐 **Microservices & Cloud-native architectures**  
+- 🏗️ Advanced **Spring Boot & NestJS** patterns for enterprise-grade systems  
+- ⚡ Observability, monitoring, and **CI/CD pipelines** for reliable deployments  
 
 ---
 
@@ -74,21 +77,21 @@ I'm a Software Engineering student at **1337-UM6P** (42 Network) with a passion 
 
 ## 🚀 Featured Projects
 
-### [Webserv](https://github.com/Serghini04/Webserv) – Production-Grade HTTP Server
-*A lightweight yet powerful HTTP server implemented from scratch in C++*
+### [EcommerceAPI](https://github.com/Serghini04/EcommerceAPI) – Enterprise E-commerce Backend
+*A scalable backend platform designed for modern e-commerce systems*
 
-- ⚡ Engineered a concurrent connection handler that efficiently manages 500+ simultaneous requests
-- 🔐 Implemented secure user authentication with Python-based session management and cookie persistence
-- 🔄 Built dynamic content processing via CGI for server-side application support
-- 🛠️ **Technologies**: C++, Python, Socket Programming, HTTP Protocol, POSIX, Session Management
+- 🛒 Implemented product catalog, shopping cart, order management, and payment workflows  
+- 💳 Integrated **Stripe** for secure online payments  
+- 📈 Designed robust REST APIs with authentication, validation, and error handling  
+- 🛠️ **Technologies**: Java, Spring Boot, MySQL, Stripe API, REST APIs, Docker  
 
-### [Java Modules](https://github.com/Serghini04/Java_Modules) – Java Engineering Ecosystem
-*A comprehensive progression through Java technologies from fundamentals to frameworks*
+### [Inception](https://github.com/Serghini04/Inception) – Containerized Infrastructure
+*A container-based architecture for service orchestration and DevOps learning*
 
-- 🏗️ Architected a Socket-based real-time chat application with multi-threading support
-- 🔄 Developed a custom ORM framework leveraging Java Reflection for dynamic database operations
-- 📊 Implemented comprehensive testing strategies with JUnit and Mockito
-- 🛠️ **Technologies**: Java Core, Spring Framework, JDBC, Socket Programming, Testing Frameworks
+- 🐳 Deployed multi-service setup with **Docker Compose** and custom configurations  
+- 🔑 Secured services with SSL certificates and environment variables  
+- 📦 Orchestrated NGINX, WordPress, MariaDB, and FTP in isolated containers  
+- 🛠️ **Technologies**: Docker, Docker Compose, NGINX, MariaDB, WordPress, SSL/TLS
 
 <p align="center"><i>Explore more solutions on <a href="https://github.com/Serghini04?tab=repositories">my repositories</a>!</i></p>
 
@@ -96,16 +99,16 @@ I'm a Software Engineering student at **1337-UM6P** (42 Network) with a passion 
 
 ## 🤝 Professional Skills
 
-- **Analytical Problem Solving**: Methodical approach to debugging, optimization, and system design
-- **Technical Collaboration**: Experience with pair programming and agile methodologies
-- **Documentation & Knowledge Transfer**: Clear technical writing and effective knowledge sharing
-- **Continuous Improvement**: Constantly seeking more efficient, elegant, and maintainable solutions
+- **Problem Solving**: Debugging, optimization, and system design with an analytical mindset  
+- **Collaboration**: Pair programming, teamwork, and agile methodologies  
+- **Documentation**: Clear and structured technical writing & knowledge sharing  
+- **Continuous Learning**: Always exploring better, more efficient, and maintainable solutions  
 
 ---
 
 ## 📬 Let's Connect
 
-I'm currently seeking entry-level backend engineering opportunities where I can contribute to meaningful projects and continue growing. Whether you have a position to discuss, a project to collaborate on, or just want to chat tech—I'd love to hear from you!
+I’m currently seeking **Full-Stack/Backend Engineering internships or entry-level roles** where I can contribute to impactful projects while continuing to grow. Whether you have a position to discuss, a project to collaborate on, or just want to chat tech—I'd love to hear from you!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehdi-serghini-a81160245/" target="_blank">
