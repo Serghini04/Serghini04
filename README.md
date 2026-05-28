@@ -1,120 +1,90 @@
-<h1 align="center">Hello, World! I'm Mehdi Serghini 👨‍💻</h1>
+<h1 align="center">Hi, I'm Mehdi Serghini 👨‍💻</h1>
 
 <p align="center">
-  <i>"Efficiency isn't just a goal—it's the foundation of everything I build."</i>
+  <strong>"Reliable systems under the hood. Clear communication in the chat."</strong>
 </p>
 
-I'm a Software Engineering student at **1337-UM6P** (42 Network) with a passion for crafting resilient backend systems and streamlining development workflows. My approach combines technical precision with practical automation to create solutions that scale effectively.
+<p align="center">
+  I build production-grade backends and real-time AI orchestration pipelines that don't break under load. Currently optimizing live AI systems at <strong>KOP</strong>, my engineering foundation comes from <strong>1337 (42 Network)</strong>—meaning I don't rely on framework guesswork; I build resilient software from the protocol layer up.
+</p>
 
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/greenbinary/meserghi" alt="42 Badge" />
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/meserghi" alt="42 Badge" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehdi-serghini/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mehdi_serghini@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-- 🔍 Strong foundation in **algorithms, system design, and microservices**
-- 🚀 Experience with **Java/Spring Boot, C++, React.js, Node.js, and Dockerized infrastructures**  
-- 🛡️ Focused on **scalability, performance optimization, and security**  
-- 💡 Thrive in collaborative environments and enjoy tackling complex technical challenges
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Technical Core
 
-<table>
+<table align="center">
   <tr>
-    <td><strong>Core Languages</strong></td>
-    <td>Java, C/C++, JavaScript, TypeScript, Bash</td>
+    <td><strong>Languages</strong></td>
+    <td>Java (17+), Python (FastAPI), C/C++, TypeScript, Bash</td>
   </tr>
   <tr>
-    <td><strong>Backend & APIs</strong></td>
-    <td>Spring Boot, Node.js, REST APIs, Microservices, Socket Programming</td>
+    <td><strong>Backend & AI</strong></td>
+    <td>Spring Boot, Node.js, LiveKit WebRTC, OpenAI Realtime API, RESTful, Sockets</td>
   </tr>
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React.js, HTML, CSS, TypeScript</td>
+    <td><strong>Data & Caching</strong></td>
+    <td>PostgreSQL, MySQL, Redis, MongoDB, ACID Compliance, Data Modeling</td>
   </tr>
   <tr>
-    <td><strong>Data Management</strong></td>
-    <td>PostgreSQL, MySQL, MongoDB, Data Modeling, ORM</td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & Infrastructure</strong></td>
-    <td>Docker, Docker Compose, NGINX, CI/CD Pipelines, GitHub Actions</td>
-  </tr>
-  <tr>
-    <td><strong>Systems & Networking</strong></td>
-    <td>Linux Administration, Virtualization, Network Configuration</td>
+    <td><strong>DevOps & Infra</strong></td>
+    <td>Docker, Docker Compose, NGINX (TLS 1.3), Linux, CI/CD Pipelines</td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cpp,js,ts,react,nodejs,nestjs,mysql,postgresql,mongodb,docker,nginx,bash,linux,git,github,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,cpp,ts,nodejs,redis,postgres,mysql,docker,nginx,linux,git" />
   </a>
 </p>
 
 ---
 
-## 📚 Currently Expanding My Knowledge In
+## 🚀 Production & Architecture Highlights
 
-- 🔄 Full-Stack development with **React frontends and Spring Boot/Node.js backends**  
-- 🌐 **Microservices & Cloud-native architectures**  
-- 🏗️ Advanced **Spring Boot & NestJS** patterns for enterprise-grade systems  
-- ⚡ Observability, monitoring, and **CI/CD pipelines** for reliable deployments  
+### [AskMyDoc](https://github.com/Serghini04/AskMyDoc) — Multilingual Document Intelligence
+Multilingual RAG platform built for the MENA market where documents mix Arabic and French. BGE-M3 handles cross-language semantic search natively; most AI tools fail here.  
+`Python · FastAPI · Qdrant · BGE-M3 · Docker`
 
----
+### [ft_transcendence](https://github.com/Serghini04/ft_transcendence) — Real-Time Platform, Microservices & Kafka
+Real-time Pong, live tournaments, and chat — distributed across isolated microservices with Kafka for async communication and WebSockets for live state. The hardest project at 42.  
+`Node.js · TypeScript · Fastify · Kafka · WebSockets · PostgreSQL · Docker`
 
-## 📊 GitHub Analytics
+### [EcommerceAPI](https://github.com/Serghini04/EcommerceAPI) — Enterprise E-commerce Backend
+Engineered around the failure cases: idempotency keys at the protocol layer prevent double charges, immutable order snapshots protect price history, UUID cart IDs block enumeration attacks.  
+`Java 17 · Spring Boot · MySQL · Redis · Stripe · Docker`
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serghini04&theme=dark&hide_border=false&layout=compact" alt="GitHub Top Languages" /></td>
-    <td><img src="https://streak-stats.demolab.com?user=Serghini04&theme=dracula&exclude_days=Sun" alt="GitHub Streak Stats" /></td>
-  </tr>
-</table>
+### [WebServ](https://github.com/Serghini04/WebServ) — HTTP Server from Bare Sockets
+Built an async network engine using `select()` to handle thousands of concurrent connections on a single thread. Custom byte-stream parsers for HTTP/1.1, CGI execution, and cookie sessions — no libraries.  
+`C++98 · POSIX Sockets · CGI`
 
----
-
-## 🚀 Featured Projects
-
-### [EcommerceAPI](https://github.com/Serghini04/EcommerceAPI) – Enterprise E-commerce Backend
-*A scalable backend platform designed for modern e-commerce systems*
-
-- 🛒 Implemented product catalog, shopping cart, order management, and payment workflows  
-- 💳 Integrated **Stripe** for secure online payments  
-- 📈 Designed robust REST APIs with authentication, validation, and error handling  
-- 🛠️ **Technologies**: Java, Spring Boot, MySQL, Stripe API, REST APIs, Docker  
-
-### [Inception](https://github.com/Serghini04/Inception) – Containerized Infrastructure
-*A container-based architecture for service orchestration and DevOps learning*
-
-- 🐳 Deployed multi-service setup with **Docker Compose** and custom configurations  
-- 🔑 Secured services with SSL certificates and environment variables  
-- 📦 Orchestrated NGINX, WordPress, MariaDB, and FTP in isolated containers  
-- 🛠️ **Technologies**: Docker, Docker Compose, NGINX, MariaDB, WordPress, SSL/TLS
-
-<p align="center"><i>Explore more solutions on <a href="https://github.com/Serghini04?tab=repositories">my repositories</a>!</i></p>
+### [Inception](https://github.com/Serghini04/Inception) — Full DevOps Stack from Zero
+Self-contained infrastructure: Nginx TLS 1.3, WordPress + Redis, MariaDB, FTP in a chroot jail — all orchestrated via Docker Compose and Makefile. Zero manual steps.  
+`Docker · Nginx · MariaDB · Linux · IaC`
 
 ---
 
-## 🤝 Professional Skills
+## 🤝 The Value I Bring to Your Team
 
-- **Problem Solving**: Debugging, optimization, and system design with an analytical mindset  
-- **Collaboration**: Pair programming, teamwork, and agile methodologies  
-- **Documentation**: Clear and structured technical writing & knowledge sharing  
-- **Continuous Learning**: Always exploring better, more efficient, and maintainable solutions  
+- **Root-Cause Resolution:** I don't patch symptoms or mindlessly restart crashed servers. I trace logs, analyze query execution plans, and resolve bottlenecks at the database layer.
+- **Clean Communication:** No ego. I provide crystal-clear technical documentation, proactive progress tracking, and structured code.
+- **Execution Certainty:** I value your operational runway. I don't guess, I don't cut structural corners, and I do not ghost.
 
 ---
 
-## 📬 Let's Connect
-
-I’m currently seeking **Full-Stack/Backend Engineering internships or entry-level roles** where I can contribute to impactful projects while continuing to grow. Whether you have a position to discuss, a project to collaborate on, or just want to chat tech—I'd love to hear from you!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mehdi-serghini-a81160245/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mehdi_serghini@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<h3 align="center">
+  Looking for an autonomous engineer who can scale your backend without hand-holding? <br>
+  👉 <a href="https://www.linkedin.com/in/mehdi-serghini/">Let's connect and schedule a technical sync.</a>
+</h3>
