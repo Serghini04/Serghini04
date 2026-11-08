@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build production-grade backends and real-time AI orchestration pipelines that don't break under load. Currently optimizing live AI systems at <strong>KOP</strong>, my engineering foundation comes from <strong>1337 (42 Network)</strong>—meaning I don't rely on framework guesswork; I build resilient software from the protocol layer up.
+  I build production-grade backends and real-time AI orchestration pipelines that don't break under load. As a <strong>Backend Engineer at KOP</strong>, I optimize live AI systems in production. My engineering foundation comes from <strong>1337 (42 Network)</strong>, so I don't rely on framework guesswork; I build resilient software from the protocol layer up. Now going deeper into <strong>AI & Machine Learning</strong> to build the next generation of intelligent systems.
 </p>
 
 <p align="center">
@@ -35,6 +35,10 @@
     <td>Spring Boot, Node.js, LiveKit WebRTC, OpenAI Realtime API, RESTful, Sockets</td>
   </tr>
   <tr>
+    <td><strong>AI & ML</strong></td>
+    <td>RAG, Qdrant, BGE-M3, LLM Function Calling, OpenAI API</td>
+  </tr>
+  <tr>
     <td><strong>Data & Caching</strong></td>
     <td>PostgreSQL, MySQL, Redis, MongoDB, ACID Compliance, Data Modeling</td>
   </tr>
@@ -46,7 +50,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,cpp,ts,nodejs,redis,postgres,mysql,docker,nginx,linux,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,cpp,ts,nodejs,redis,postgres,mysql,mongodb,kafka,docker,nginx,linux,git" />
   </a>
 </p>
 
@@ -54,12 +58,16 @@
 
 ## 🚀 Production & Architecture Highlights
 
+### [TaskFlow](https://github.com/Serghini04/TaskFlow) — Layered Backend with an AI Assistant
+A production-style task API with clean layered architecture (routes to services to repositories), JWT auth with per-user data isolation, and a natural-language assistant that drives the API through LLM function calling. The chatbot calls the same service layer as the REST endpoints, so validation and ownership checks always apply; the AI cannot bypass them.  
+`Python · FastAPI · SQLAlchemy · Pydantic · JWT · LLM Function Calling`
+
 ### [AskMyDoc](https://github.com/Serghini04/AskMyDoc) — Multilingual Document Intelligence
 Multilingual RAG platform built for the MENA market where documents mix Arabic and French. BGE-M3 handles cross-language semantic search natively; most AI tools fail here.  
 `Python · FastAPI · Qdrant · BGE-M3 · Docker`
 
 ### [ft_transcendence](https://github.com/Serghini04/ft_transcendence) — Real-Time Platform, Microservices & Kafka
-Real-time Pong, live tournaments, and chat — distributed across isolated microservices with Kafka for async communication and WebSockets for live state. The hardest project at 42.  
+Real-time Pong, live tournaments, and chat, distributed across isolated microservices with Kafka for async communication and WebSockets for live state. The hardest project at 42.  
 `Node.js · TypeScript · Fastify · Kafka · WebSockets · PostgreSQL · Docker`
 
 ### [EcommerceAPI](https://github.com/Serghini04/EcommerceAPI) — Enterprise E-commerce Backend
@@ -67,16 +75,16 @@ Engineered around the failure cases: idempotency keys at the protocol layer prev
 `Java 17 · Spring Boot · MySQL · Redis · Stripe · Docker`
 
 ### [WebServ](https://github.com/Serghini04/WebServ) — HTTP Server from Bare Sockets
-Built an async network engine using `select()` to handle thousands of concurrent connections on a single thread. Custom byte-stream parsers for HTTP/1.1, CGI execution, and cookie sessions — no libraries.  
+Built an async network engine using `select()` to handle thousands of concurrent connections on a single thread. Custom byte-stream parsers for HTTP/1.1, CGI execution, and cookie sessions, no libraries.  
 `C++98 · POSIX Sockets · CGI`
 
 ### [Inception](https://github.com/Serghini04/Inception) — Full DevOps Stack from Zero
-Self-contained infrastructure: Nginx TLS 1.3, WordPress + Redis, MariaDB, FTP in a chroot jail — all orchestrated via Docker Compose and Makefile. Zero manual steps.  
+Self-contained infrastructure: Nginx TLS 1.3, WordPress + Redis, MariaDB, FTP in a chroot jail, all orchestrated via Docker Compose and Makefile. Zero manual steps.  
 `Docker · Nginx · MariaDB · Linux · IaC`
 
 ---
 
-## 🤝 The Value I Bring to Your Team
+## 🤝 The Value I Bring
 
 - **Root-Cause Resolution:** I don't patch symptoms or mindlessly restart crashed servers. I trace logs, analyze query execution plans, and resolve bottlenecks at the database layer.
 - **Clean Communication:** No ego. I provide crystal-clear technical documentation, proactive progress tracking, and structured code.
@@ -85,6 +93,6 @@ Self-contained infrastructure: Nginx TLS 1.3, WordPress + Redis, MariaDB, FTP in
 ---
 
 <h3 align="center">
-  Looking for an autonomous engineer who can scale your backend without hand-holding? <br>
+  Looking for a backend engineer who can scale your systems without hand-holding? <br>
   👉 <a href="https://www.linkedin.com/in/mehdi-serghini/">Let's connect and schedule a technical sync.</a>
 </h3>
