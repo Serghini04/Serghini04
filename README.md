@@ -58,10 +58,6 @@
 
 ## 🚀 Production & Architecture Highlights
 
-### [TaskFlow](https://github.com/Serghini04/TaskFlow) — Layered Backend with an AI Assistant
-A production-style task API with clean layered architecture (routes to services to repositories), JWT auth with per-user data isolation, and a natural-language assistant that drives the API through LLM function calling. The chatbot calls the same service layer as the REST endpoints, so validation and ownership checks always apply; the AI cannot bypass them.  
-`Python · FastAPI · SQLAlchemy · Pydantic · JWT · LLM Function Calling`
-
 ### [AskMyDoc](https://github.com/Serghini04/AskMyDoc) — Multilingual Document Intelligence
 Multilingual RAG platform built for the MENA market where documents mix Arabic and French. BGE-M3 handles cross-language semantic search natively; most AI tools fail here.  
 `Python · FastAPI · Qdrant · BGE-M3 · Docker`
